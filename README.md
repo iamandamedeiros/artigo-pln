@@ -32,7 +32,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 - Lexica.art：
 
-No léxica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foi:
+No Lexica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram:
 
       Artificial Intelligence | Human and robot
      
@@ -54,7 +54,7 @@ No léxica utilizei o acervo público de imagens geradas por outras pessoas, os 
   <a href="https://image.lexica.art/full_webp/83f952ec-c38e-4cee-9c9b-ad8195e98f74" title="View now"> 🖼Clique aqui para ver imagem</a>
 
 
-## 👨‍💻 Autora
+## 👩🏽‍💻 Autora
 
 <p>
     <img 
